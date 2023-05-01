@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KitCarter
-- 👀 I’m interested in SQL, Power BI, app development. Might be looking at Python, but not yet.
+- 👀 I’m involved in SQL, Power BI, app development. 
 - 🌱 I’m currently learning about Github and the collaborative code space.
-- 💞️ I’m looking to collaborate on nothing yet.
+- 💞️ I’m currently using GitHub as a code repository.
 - 📫 How to reach me  - via here.
 
 <!---
